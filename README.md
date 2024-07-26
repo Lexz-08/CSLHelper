@@ -40,5 +40,9 @@ namespace MyProgram
 }
 ```
 
+## FYI
+In the release, there is a file called `cslpp.dll`, which you only need to download if it is not automatically being written to in the same directory as `CSLHelper.dll`.
+
 ## Download
-[CSLHelper.dll](https://github.com/Lexz-08/CSLHelper/releases/latest/download/CSLHelper.dll)
+[CSLHelper.dll](https://github.com/Lexz-08/CSLHelper/releases/latest/download/CSLHelper.dll)<br/>
+[cslpp.dll](https://github.com/Lexz-08/CSLHelper/releases/latest/download/cslpp.dll) — if not in the same directory as `CSLHelper.dll` when program is run
