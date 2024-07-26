@@ -40,6 +40,9 @@ namespace MyProgram
 }
 ```
 
+## Example
+![](image.png)
+
 ## FYI
 In the release, there is a file called `cslpp.dll`, which you only need to download if it is not automatically being written to in the same directory as `CSLHelper.dll`.
 
